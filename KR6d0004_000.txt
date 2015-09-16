@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 薩曇分陀利經
+#+DATE: 2015-08-30 19:47:33.825835
+#+PROPERTY: JUAN 0
