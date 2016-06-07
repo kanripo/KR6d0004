@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:33.634472
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:32
 #+TITLE: 薩曇分陀利經
 #+PROPERTY: CBETA_ID T09n0265
 #+PROPERTY: ID KR6d0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0265
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0004_T_001-0197a> 
 #+PROPERTY: JUAN 1
 ¶
-No.265[Nos.262(11,12),263(11),264(11)]¶
-
- 《薩曇分陀利經》一卷¶
+No. 265 [Nos. 262(11, 12), 263(11), 264(11)]¶
+《薩曇分陀利經》一卷¶
 ¶
 失譯人名今附西晉錄¶
 
@@ -53,9 +52,9 @@ No.265[Nos.262(11,12),263(11),264(11)]¶
 　聞藥王佛，
 　知字名者，¶
 　不得愈病，
-　自識宿命。」
+　自識宿命。」」
 #+END_VERSE
-」¶
+¶
 
 於是釋迦文佛，說無央數阿僧祇劫，復說無
 <pb:KR6d0004_T_001-0197b>¶
@@ -80,9 +79,9 @@ No.265[Nos.262(11,12),263(11),264(11)]¶
 　自衒言誰欲？¶
 　持我作奴者，
 　我欲行供養，¶
-　奴心善意行。」
+　奴心善意行。」」
 #+END_VERSE
-」¶
+¶
 
 佛言：「是時，王者，我身是也；時，婆羅門者，調達¶
 是。誰恩令我得滿六波羅蜜者、三十二相八¶
